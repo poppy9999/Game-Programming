@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1661789071
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: selectidentitypanel_prefab
+      Dependencies: {}
+    Info_1:
+      Name: startpanel_prefab
+      Dependencies: {}
+    Info_2:
+      Name: lodinpanel_prefab
+      Dependencies: {}
+    Info_3:
+      Name: tippanel_prefab
+      Dependencies: {}
+    Info_4:
+      Name: game_unity
+      Dependencies: {}
+    Info_5:
+      Name: launch_unity
+      Dependencies:
+        Dependency_0: catplayer_prefab
+        Dependency_1: mouseplayer_prefab
+    Info_6:
+      Name: catplayer_prefab
+      Dependencies: {}
+    Info_7:
+      Name: mouseplayer_prefab
+      Dependencies: {}
+    Info_8:
+      Name: mousepanel_prefab
+      Dependencies: {}
+    Info_9:
+      Name: catpanel_prefab
+      Dependencies: {}
+    Info_10:
+      Name: timepanel_prefab
+      Dependencies: {}
+    Info_11:
+      Name: gameoverpanel_prefab
+      Dependencies: {}

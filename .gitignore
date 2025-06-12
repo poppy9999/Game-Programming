@@ -1,0 +1,9 @@
+# Unity gitignore template
+[Ll]ibrary/
+[Tt]emp/
+[Tt]arget/
+[Aa]ssets/AssetStoreTools*
+.idea/
+.vscode/
+*.user
+*.userprefs

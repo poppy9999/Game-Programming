@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 2155310430
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 218f4e96dbf1910e1dacf182e2de75a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 53cea16ac4647f1ab955370e74aa6a81
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a553cb17010b2403e8523b558bffbc14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f6f3bf89aa97405989c802ba270f815, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6aef1194a4d44d339f658e72c1f05483, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b91ecbcc199f4492b9a91e820070131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efbc7a7504930404795411b845bf0a29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a5af04dda4b562478e96e843751b79e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: HideAndSeek.MouseVaryClass
+Assets:
+- Assets/Art/Prefab/mousePlayer.prefab
+Dependencies: []

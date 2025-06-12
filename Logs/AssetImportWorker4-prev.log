@@ -1,0 +1,734 @@
+Using pre-set license
+Built from '2022.3/china_unity/release' branch; Version is '2022.3.55f1c1 (06b99830297d) revision 440728'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 32559 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\ProgramFile\UnityEditor\2022.3.55f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+D:/Download/HideAndSeek3/HideAndSeek(1)/HideAndSeek
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+53658
+Successfully changed project path to: D:/Download/HideAndSeek3/HideAndSeek(1)/HideAndSeek
+D:/Download/HideAndSeek3/HideAndSeek(1)/HideAndSeek
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [87356]  Target information:
+
+Player connection [87356]  * "[IP] 192.168.255.1 [Port] 0 [Flags] 2 [Guid] 1994762759 [EditorId] 1994762759 [Version] 1048832 [Id] WindowsEditor(7,poppy) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [87356]  * "[IP] 192.168.31.1 [Port] 0 [Flags] 2 [Guid] 1994762759 [EditorId] 1994762759 [Version] 1048832 [Id] WindowsEditor(7,poppy) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [87356]  * "[IP] 192.168.0.203 [Port] 0 [Flags] 2 [Guid] 1994762759 [EditorId] 1994762759 [Version] 1048832 [Id] WindowsEditor(7,poppy) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [87356] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [87356] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+Refreshing native plugins compatible for Editor in 6.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.55f1c1 (06b99830297d)
+[Subsystems] Discovering subsystems at path D:/ProgramFile/UnityEditor/2022.3.55f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Download/HideAndSeek3/HideAndSeek(1)/HideAndSeek/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28e0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   31.0.15.5183
+Initialize mono
+Mono path[0] = 'D:/ProgramFile/UnityEditor/2022.3.55f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/ProgramFile/UnityEditor/2022.3.55f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/ProgramFile/UnityEditor/2022.3.55f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56284
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/ProgramFile/UnityEditor/2022.3.55f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/ProgramFile/UnityEditor/2022.3.55f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002869 seconds.
+- Loaded All Assemblies, in  0.311 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.231 seconds
+Domain Reload Profiling: 542ms
+	BeginReloadAssembly (92ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (144ms)
+		LoadAssemblies (91ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (142ms)
+			TypeCache.Refresh (141ms)
+				TypeCache.ScanAssembly (121ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (231ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (191ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (127ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.796 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Moved ScriptTemplates to Assets folder.
+Mirror | mirror-networking.com | discord.gg/N9QVxbM
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.621 seconds
+Domain Reload Profiling: 1416ms
+	BeginReloadAssembly (135ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (16ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (585ms)
+		LoadAssemblies (420ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (246ms)
+			TypeCache.Refresh (210ms)
+				TypeCache.ScanAssembly (193ms)
+			ScanForSourceGeneratedMonoScriptInfo (24ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (621ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (495ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (62ms)
+			ProcessInitializeOnLoadAttributes (350ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 2.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5741 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (346.9 KB). Loaded Objects now: 6201.
+Memory consumption went from 188.1 MB to 187.8 MB.
+Total: 2.792700 ms (FindLiveObjects: 0.257000 ms CreateObjectMapping: 0.090400 ms MarkObjects: 2.328200 ms  DeleteObjects: 0.115600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/CitySplitor.cs: 50a1efb3462802c496651a196a1a9eac -> 
+  custom:scripting/monoscript/fileName/SplitSceneBy2x2Blocks.cs: 513f3401c17012a61e15b995618f0277 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/CityGenerator.cs: 6abaf8bb4a0ab5143acbb176a216a959 -> 8e9fa03cfc7d5ddced4a5cd58c37479e
+========================================================================
+Received Import Request.
+  Time since last request: 1320161.216667 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Factory/Bock_A1.fbx
+  artifactKey: Guid(602cabd8adf547449bd85228f9ebad50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Factory/Bock_A1.fbx using Guid(602cabd8adf547449bd85228f9ebad50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '7ed65206ac325cde61757dbe7f8040fd') in 0.077146 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.041703 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Factory/Bock_A3.fbx
+  artifactKey: Guid(7b01d2d300117654f82b32b1624828a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Factory/Bock_A3.fbx using Guid(7b01d2d300117654f82b32b1624828a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '7abb593ede6279f3127d6684bb2b8a87') in 0.011774 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.106140 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Factory/Silo_A1.fbx
+  artifactKey: Guid(0e66e712dad0a9d4ba516b93271e2921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Factory/Silo_A1.fbx using Guid(0e66e712dad0a9d4ba516b93271e2921) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '34f52c912a4c6ec5a024803ba7e50927') in 0.039884 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Factory/Floor_A1.fbx
+  artifactKey: Guid(ea8524341d28ab243bffc30e4f02d533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Factory/Floor_A1.fbx using Guid(ea8524341d28ab243bffc30e4f02d533) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '74f401a6a24cc21d09a1abbef5196009') in 0.033383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Factory/Wall_01.fbx
+  artifactKey: Guid(ac260e9a5ad8c0145b25d2f48d4ce805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Factory/Wall_01.fbx using Guid(ac260e9a5ad8c0145b25d2f48d4ce805) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'e082f6e773444dc1178b820515cc6afe') in 0.078870 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.761537 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Bock_A1.fbx
+  artifactKey: Guid(016a853ec255b184a8c713a3b8985e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Bock_A1.fbx using Guid(016a853ec255b184a8c713a3b8985e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'ff908cab078cdb9eedcd42f0df190f8b') in 0.010329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Bottom_A3.fbx
+  artifactKey: Guid(81f154777d670354e9fa9459a50c2460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Bottom_A3.fbx using Guid(81f154777d670354e9fa9459a50c2460) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '1e0ea77e4040bcaf4118d28846adfe02') in 0.046875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/RoofTop_A2.fbx
+  artifactKey: Guid(eebcd2643aea6dc4a93136c5a4d9577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/RoofTop_A2.fbx using Guid(eebcd2643aea6dc4a93136c5a4d9577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '2c463602377581af2b7ce5256fa9759a') in 0.044478 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Helipad.fbx
+  artifactKey: Guid(ec52ebc08aafe58428faa8d2d34c699f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Helipad.fbx using Guid(ec52ebc08aafe58428faa8d2d34c699f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '1b325f45fefd022e4782d608fdb2df49') in 0.029603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Bottom_A1.fbx
+  artifactKey: Guid(a95ea6382cd070148a2d573db3ffb593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Bottom_A1.fbx using Guid(a95ea6382cd070148a2d573db3ffb593) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '3ff642d46d2cb5d7bb1827d7c2ded69d') in 0.032020 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/RoofTop_A1.fbx
+  artifactKey: Guid(454c3bf2735a05e47a5e0658aa19e9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/RoofTop_A1.fbx using Guid(454c3bf2735a05e47a5e0658aa19e9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '6c94848cf7b01ffe6bfd88617f54a140') in 0.015938 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Stairs_A1.fbx
+  artifactKey: Guid(97fabb3e61c43c249ba4ffd402a6893c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Stairs_A1.fbx using Guid(97fabb3e61c43c249ba4ffd402a6893c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'da042b8f9307cc1dade73b75a9b18fff') in 0.007709 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Bottom_A2.fbx
+  artifactKey: Guid(fcd581b3e575e8c4ebd572b7a999ffb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Bottom_A2.fbx using Guid(fcd581b3e575e8c4ebd572b7a999ffb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '0d33025cded58e23985a67283f031769') in 0.006927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Sign_A1.fbx
+  artifactKey: Guid(433cdb47fbe97064da977763d5c15f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Sign_A1.fbx using Guid(433cdb47fbe97064da977763d5c15f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '9623c1f8846e83e2eb865bf9d0bc34b2') in 0.008017 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Sign_A3.fbx
+  artifactKey: Guid(fc2fe6b83316aa9429c060076f0aa432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Sign_A3.fbx using Guid(fc2fe6b83316aa9429c060076f0aa432) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'c1182a778409c98b33906a07aacf05f0') in 0.006672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Garage_A1.fbx
+  artifactKey: Guid(7b362e5cb4ab93e4c8595ab14a64ba93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Garage_A1.fbx using Guid(7b362e5cb4ab93e4c8595ab14a64ba93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'd0232a06e999f16e37bc2701bbf4d6f6') in 0.008288 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Window_A3.fbx
+  artifactKey: Guid(bb5012be1f308f04bb024880d27e10b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Window_A3.fbx using Guid(bb5012be1f308f04bb024880d27e10b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '6b358cc6f4ba5f6ba26183f2ae70ecf8') in 0.008255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 27.992796 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Burgers/Block_A01.fbx
+  artifactKey: Guid(c0c03840da9739c4fbd806d2014c948e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Burgers/Block_A01.fbx using Guid(c0c03840da9739c4fbd806d2014c948e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '57864a5d4a4d0f4cdea0c3ad3eb342b9') in 0.017812 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Burgers/Door_A01.fbx
+  artifactKey: Guid(60ea6cad622271b4aad092c79ce21042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Burgers/Door_A01.fbx using Guid(60ea6cad622271b4aad092c79ce21042) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'f00156c2ff3a73964f3c93d057fca061') in 0.069863 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Burgers/RoofTop_A03.fbx
+  artifactKey: Guid(75d0b33c354834e42ba20ef65c05432a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Burgers/RoofTop_A03.fbx using Guid(75d0b33c354834e42ba20ef65c05432a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '43e11cd3b7559a22356d40189fcf210e') in 0.067881 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Burgers/RoofTop_A04.fbx
+  artifactKey: Guid(84e42c80a549b3f449301b36f786638d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Burgers/RoofTop_A04.fbx using Guid(84e42c80a549b3f449301b36f786638d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '05fcf8ebf739f2006c387a3bccf9bc90') in 0.030547 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Burgers/Hamburger_01.fbx
+  artifactKey: Guid(58c48f85d4550f04c873a629164119c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Burgers/Hamburger_01.fbx using Guid(58c48f85d4550f04c873a629164119c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '1e4d07963f07e90a9d91a27e7ed20237') in 0.031109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.857333 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Cars/Car_D3.fbx
+  artifactKey: Guid(0b6c33cb9e0c39f4d8640c9fb84065b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Cars/Car_D3.fbx using Guid(0b6c33cb9e0c39f4d8640c9fb84065b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '3dc684b3650f2f6db095f4d0cef93963') in 0.042119 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 31
+========================================================================
+Received Import Request.
+  Time since last request: 145.277799 seconds.
+  path: Assets/Scenes/Game - Park.unity
+  artifactKey: Guid(4a6efc95786082542a978f146871cdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game - Park.unity using Guid(4a6efc95786082542a978f146871cdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'b65e2e732872ceab70711fafff4c441c') in 0.000619 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 78.927360 seconds.
+  path: Assets/Scenes/Game 1.unity
+  artifactKey: Guid(57ad4d985de91fe439d32c83330c486c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game 1.unity using Guid(57ad4d985de91fe439d32c83330c486c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'a9a3ecd58c7bc4d87fb321872f4fb916') in 0.000449 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 20.326036 seconds.
+  path: Assets/Scenes/Game - Parkinglot.unity
+  artifactKey: Guid(57ad4d985de91fe439d32c83330c486c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game - Parkinglot.unity using Guid(57ad4d985de91fe439d32c83330c486c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '91a06384a888eb8b45c37f88c0f819c3') in 0.000401 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.664784 seconds.
+  path: Assets/Scenes/Game - Park.unity
+  artifactKey: Guid(4a6efc95786082542a978f146871cdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game - Park.unity using Guid(4a6efc95786082542a978f146871cdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'bf89d8f5f13e3646e9f39ebc7673435d') in 0.000330 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 140.484915 seconds.
+  path: Assets/Scenes/Game - Parkinglot.unity
+  artifactKey: Guid(57ad4d985de91fe439d32c83330c486c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game - Parkinglot.unity using Guid(57ad4d985de91fe439d32c83330c486c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'cf882436068e26c198b390002ec971b0') in 0.000357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.578129 seconds.
+  path: Assets/Scenes/Game 1.unity
+  artifactKey: Guid(2499765abc620904ea0636c45add0635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game 1.unity using Guid(2499765abc620904ea0636c45add0635) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'b2534a7d8011d18d85c163cb95f3a1f6') in 0.000321 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 252.529626 seconds.
+  path: Assets/Scenes/Game - Parkinglot.unity
+  artifactKey: Guid(57ad4d985de91fe439d32c83330c486c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game - Parkinglot.unity using Guid(57ad4d985de91fe439d32c83330c486c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '49b4b5075ee0d0504f2461f9d627da8d') in 0.000532 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 311.789532 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Cars/Car_D5.fbx
+  artifactKey: Guid(eef13241a73ae104ca40cb5faedec77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Cars/Car_D5.fbx using Guid(eef13241a73ae104ca40cb5faedec77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '6bad4af75c696b43d79d2b309d7a428c') in 0.068072 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 31
+========================================================================
+Received Import Request.
+  Time since last request: 0.105077 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Cars/Truck_A2.fbx
+  artifactKey: Guid(ba0490197f1ff5e4e8c037d89a534041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Cars/Truck_A2.fbx using Guid(ba0490197f1ff5e4e8c037d89a534041) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'f304a24c5c158060690a3415093fb2d4') in 0.167978 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 31
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Cars/Truck_A5.fbx
+  artifactKey: Guid(8eef4385d4d334c48869c99457008cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Cars/Truck_A5.fbx using Guid(8eef4385d4d334c48869c99457008cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '0b3b92873d6f7fd50b29e5b51ed5ea3e') in 0.125407 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 31
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Cars/Truck_A1.fbx
+  artifactKey: Guid(18c5c9c2216bd5e4e9780e7614b6c8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Cars/Truck_A1.fbx using Guid(18c5c9c2216bd5e4e9780e7614b6c8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '6b4c4fb0748d9723bb3477155a4f9b8a') in 0.070568 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 31
+========================================================================
+Received Import Request.
+  Time since last request: 4.147597 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_A01.fbx
+  artifactKey: Guid(cbc21de0d95c6ed41b998dd2c684a3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_A01.fbx using Guid(cbc21de0d95c6ed41b998dd2c684a3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '8aef5d904c94ecf8254f92fb4017f2b4') in 0.008457 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.107497 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_B02.fbx
+  artifactKey: Guid(4358937d4addeed45ba707f282800787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_B02.fbx using Guid(4358937d4addeed45ba707f282800787) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'ae176c9856cfc4c4f96829ce64d388c6') in 0.026908 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_E01.fbx
+  artifactKey: Guid(18d23122870536845980939b0f494203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_E01.fbx using Guid(18d23122870536845980939b0f494203) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '3aff40e59958191d786f3eb31dd42dc6') in 0.026534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_C01.fbx
+  artifactKey: Guid(cefaf1e314ab2b34ca3961ee09fba976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_C01.fbx using Guid(cefaf1e314ab2b34ca3961ee09fba976) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'fa5479a6bb7579419a97bc976a04cce0') in 0.021314 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_C02.fbx
+  artifactKey: Guid(01bfd760ecf381041a84a54614b74776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_C02.fbx using Guid(01bfd760ecf381041a84a54614b74776) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'e1b9de8fd3ea2fcc42fbe1cfbe1a1d7c') in 0.025834 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_B03.fbx
+  artifactKey: Guid(aa4b58c3c2ee7a244838db3d3851fdc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_B03.fbx using Guid(aa4b58c3c2ee7a244838db3d3851fdc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '42d25acf9928f8332c1a47571f202e27') in 0.019441 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_E02.fbx
+  artifactKey: Guid(58b7d0f20d3341d48876216464dd296e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_E02.fbx using Guid(58b7d0f20d3341d48876216464dd296e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '0b7099a7abe655f9aa16b2623b9af4f4') in 0.019901 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_E05.fbx
+  artifactKey: Guid(4b7511d2e9b8a344590199edf1a7de2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Doors/Door_E05.fbx using Guid(4b7511d2e9b8a344590199edf1a7de2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '9d6ea228a4b418fbca66b2efdd064a57') in 0.014877 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 17.256578 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Window_A4.fbx
+  artifactKey: Guid(b6466b3e27d17f34087099ccd85f0306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Window_A4.fbx using Guid(b6466b3e27d17f34087099ccd85f0306) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '870b6ae399ad8bb083a281855e4991c7') in 0.023454 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.433569 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Window_A8.fbx
+  artifactKey: Guid(f480e9f3e229cd249911a111e4c20497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Hospital/Window_A8.fbx using Guid(f480e9f3e229cd249911a111e4c20497) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: '707649ee792339b0fe23e0c413095c82') in 0.006607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 3.552053 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Parking/Barrier.fbx
+  artifactKey: Guid(c33a2cac1cabd784db37551dfc204f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Parking/Barrier.fbx using Guid(c33a2cac1cabd784db37551dfc204f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'cf685933ed9d0625e875e35399636360') in 0.016011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Parking/PilarA.fbx
+  artifactKey: Guid(0534bea65a8e8ba4fb3893ed6596d225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPackage/Tiny_Toony_City_Extended/Meshes/Parking/PilarA.fbx using Guid(0534bea65a8e8ba4fb3893ed6596d225) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+ -> (artifact id: 'd0a52a4e329dc819895af5343c31f88f') in 0.010352 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: 由于线程退出或应用程序请求，已中止 I/O 操作。
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

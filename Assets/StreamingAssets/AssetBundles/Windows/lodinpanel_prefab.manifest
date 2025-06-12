@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2770839704
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acf5f51ac1b7148a767bf2673d7e6f89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2023b2c31898e22cc677e10832caa0dd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c9cbec9ac2d1b14dbd27855986f8e26, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Art/UIPrefab/LodinPanel.prefab
+Dependencies: []
